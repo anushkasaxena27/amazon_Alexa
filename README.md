@@ -1,5 +1,4 @@
-# amazon_Alexa
- * Sentiment Analysis of Amazon Alexa Reviews
+# Sentiment Analysis of Amazon Alexa Reviews
 
  - This Application uses Natural language Processing to analyse sentiments of Amazon Alexa Reviews
  - The frontend of the Application is designed using StreamLit
